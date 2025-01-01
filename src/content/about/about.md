@@ -1,5 +1,6 @@
-Hi there ✌️ nice to meet you! I'm a _Frontend Software Engineer_ at [Reputation](https://reputation.com/) based out of Chicago, Illinois.
 
-I'm an aspiring Software Engineer with a passion for writing code and making things on the web look pretty. I'm well acquainted with various *UX design* & *research methods* as well as *frontend*, *backend*, *database* and *cloud technologies*. I have always been a firm believer in the human element of design and knowing your audience. Therefore, I strive to create simple, functional and impactful user experiences.  I primarily code in **Python** and **Typescript**, and use **Adobe XD** and **Illustrator** for designing.
+Hello there! ✌️ Delighted to connect! I am a seasoned Lead Software Architect based in Pune, India, with over 20 years of experience crafting innovative and scalable solutions. My expertise spans enterprise architecture, cloud computing, and Generative AI, which allows me to design systems that are both impactful and efficient.
 
-In my free time, I love to play volleyball, watch football ⚽, cook, play the guitar, explore neighborhoods through food and occasionally bring out my inner photographer. Also, did someone say sushi? 🍣
+I’m deeply passionate about transforming complex challenges into elegant solutions, ensuring every user experience is seamless and functional. My technical toolkit includes AWS, Snowflake, ***Python***, and ***Java***, complemented by my strong foundation in ***automation***, ***data management***, and ***governance strategies***.
+
+When I’m not architecting solutions, you’ll find me immersed in my hobbies—reading intriguing books, indulging in numismatics and notaphily, or savoring the flavors of global cuisine. I also enjoy exploring new cultures and diving into the world of innovation. Oh, and yes, street food lovers, count me in! 🍛
